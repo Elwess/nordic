@@ -1,0 +1,172 @@
+body{
+
+	background-image:url("../images/background.jpg");
+	background-repeat: repeat-x repeat-y;
+}
+
+.full-width{
+	padding-right: 0px;
+  	padding-left: 0px;
+}
+.search{
+
+	margin-top: 20px;
+}
+.search-input{
+
+	border-radius: 25px 25px 25px 25px !important;
+    height: 20px;
+}
+.navbar{
+
+	margin-left: -10px;
+}
+.btn-menu{
+
+	background-color: azure;
+}
+.navbar li a{
+
+	font-family: "garamond";
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 7px;
+	color: #fff;
+}
+.nav li a:hover{
+
+	text-decoration: underline;
+    background-color: inherit;
+}
+
+.header-bg{
+
+	background-image:url("../images/header-bg.jpg");
+	background-repeat: repeat-y;
+
+}
+/*.footer-bg{
+
+	background-image:url("../images/footer-bg.jpg");
+	background-repeat: repeat-x;
+
+}*/
+.top-header-bg{
+
+	background-image:url("../images/top-header-bg.jpg");
+	background-repeat: repeat-y;
+
+}
+.sidebar-bg{
+
+	background-image:url("../images/sidebar-bg.jpg");
+	background-repeat: repeat-x;
+
+}
+.white-bg{
+
+	background-color: #fff;
+}
+.logo_position {
+    position: relative;
+}
+.head-title{
+
+	font-family: "garamond";
+	color: #a3a3a3;
+	margin-left: 15px;
+	margin-top: 40px
+}
+.social-netowrk li{
+
+	margin-top: 50px;
+	padding-left: -2px;
+	padding-right: -2px;
+}
+.post-title{
+
+	font-family: "garamond";
+	color: #303030;
+	font-size: 25px;
+}
+.post-date{
+
+	font-family: "garamond";
+	font-size: 10px;
+	color: #2c83b0;
+}
+.post-text{
+
+	font-family: "georgia";
+	color: #303030;
+	font-size: 13px;
+	margin-top: 5px;
+}
+.btn-read-more{
+
+	padding: 5px 40px;
+	border: none;
+	font-size: 11px;
+	font-family: "garamond";
+	margin-top: -13px;
+	background-color: #5298bb;
+}
+.media-body{
+
+	padding-left: 20px;
+}
+.header-top{
+
+	margin-top: 30px !important;
+}
+.block{
+
+	margin-bottom: 50px;
+}
+.block-title{
+
+	font-family: "garamond";
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+.block-text{
+
+	font-family: "georgia";
+	font-size: 13px;
+}
+.sponsor div {
+
+	text-align: center;
+}
+.title-margin{
+
+	margin-left: 20px;
+}
+.footer-margin{
+
+	margin-bottom: 50px;
+}
+.footer-block-title{
+
+	font-family: "garamond";
+	font-size: 25px;
+	margin-bottom: 20px;
+	color: #fff;
+}
+.block-footer{
+
+	margin-top: 20px;
+    margin-left: 10px;
+}
+.footer-block-text{
+
+	font-family: "georgia";
+	font-size: 13px;
+	color: #6f6e6e;
+}
+.footer-contact-text{
+
+	font-family: "georgia";
+	font-size: 13px;
+	color:#a3a3a3;
+}
